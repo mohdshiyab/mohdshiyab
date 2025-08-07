@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohammad Shiyabuddeen</h1>
 
-<!--
-**mohdshiyab/mohdshiyab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 Aspiring Engineer | Full-stack Web & Mobile App Developer | Creative Designer <br>
+  🌍 Based in Mangalore, India
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on real-world full-stack and mobile app projects  
+- 🌱 Exploring Web3, AI integrations, and cloud technologies  
+- 🎬 I’m passionate about video editing, poster design, and visual storytelling  
+- 👯 Looking to collaborate on innovative tech and creative projects  
+- 📫 Reach me at: **mohdshiyab07@gmail.com**
+
+---
+
+### 🛠 Tech Stack
+
+```js
+Languages:   JavaScript, TypeScript, Python, HTML, CSS
+Frameworks:  React, Node.js, Express.js, MongoDB
+Mobile Dev:  React Native (Expo)
+Tools:       Git, GitHub, Figma, Canva, Adobe Premiere Pro
