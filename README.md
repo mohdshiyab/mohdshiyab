@@ -13,7 +13,7 @@
 - 🌱 Exploring Web3, AI integrations, and cloud technologies  
 - 🎬 I’m passionate about video editing, poster design, and visual storytelling  
 - 👯 Looking to collaborate on innovative tech and creative projects  
-- 📫 Reach me at: **mohdshiyab07@gmail.com**
+- 📫 Reach me at: **shihabputtur2@gmail.com**
 
 ---
 
