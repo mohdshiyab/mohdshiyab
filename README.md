@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammad Shiyabuddeen</h1>
 
 <p align="center">
-  🚀 Aspiring Engineer | Full-stack Web & Mobile App Developer | Creative Designer <br>
-  🌍 Based in Mangalore, India
+   Engineer | Full-stack Web & Mobile App Developer | Creative Designer <br>
+   Based in Mangalore, India
 </p>
 
 ---
