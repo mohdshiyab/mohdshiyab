@@ -14,6 +14,7 @@
 - 🎬 I’m passionate about video editing, poster design, and visual storytelling  
 - 👯 Looking to collaborate on innovative tech and creative projects  
 - 📫 Reach me at: **shihabputtur2@gmail.com**
+- Mobile Num : +91 7022645986
 
 ---
 
